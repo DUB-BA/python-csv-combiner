@@ -1,0 +1,9 @@
+OrderID;Product;Quantity;Price
+1004;Widget C;12;10.0
+1005;Widget B;3;25.5
+1006;Widget A;15;14.5
+1001;Widget A;10;15.00
+1002;Widget B;5;25.50
+1003;Widget A;8;15.00```
+1007;Widget A;7;15.0
+1008;Widget C;20;9.75
